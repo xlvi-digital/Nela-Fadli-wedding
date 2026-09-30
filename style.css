@@ -908,6 +908,7 @@ body {
   color: #000000;
   background-color: #ffffff;
   font-family: "Jura", "Sans-serif";
+  cursor: pointer;
 }
 
 .hadiah {
